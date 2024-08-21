@@ -78,6 +78,9 @@ int main()
 ## Output:
 ![image](https://github.com/user-attachments/assets/bb9fa5b1-45a6-46fb-9be8-23a91cf0abed)
 
+### Conclusion:
+Learnt about pointers in C++. 
+
 
 
 
