@@ -13,6 +13,10 @@ Iterating over elements in arrays or other data structures is one of the main us
 The address of the variable that we are working with is assigned to the pointer variable that points to the same data type.
 ## Code: 9A
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 9A
+//23070123124
 // Program to illustrate pointers. 
 
 #include <bits/stdc++.h> 
@@ -48,6 +52,10 @@ int main()
 
 ## Code: 9B 
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 9B
+//23070123124
 // Program to create one-dimensional array of pointers. 
 
 #include <iostream> 
